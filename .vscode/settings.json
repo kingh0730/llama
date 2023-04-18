@@ -9,5 +9,9 @@
     "nccl",
     "peluche",
     "poivrée"
-  ]
+  ],
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  },
+  "python.formatting.provider": "none"
 }
